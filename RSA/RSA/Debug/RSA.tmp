@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>H:\Year 3\microprocessor\RSA\RSA\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Year 3\microprocessor\RSA\RSA\Debug\RSA.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>RSA.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>RSA.map</FILE>
+  <FILE>RSA.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>16</LINE></Init>
+  <Main><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>158</LINE></Main>
+  <Counter><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>72</LINE></Counter>
+  <loop1><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>75</LINE></loop1>
+  <Counter2><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>81</LINE></Counter2>
+  <loop2><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>84</LINE></loop2>
+  <Counter3><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>91</LINE></Counter3>
+  <loop3><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>94</LINE></loop3>
+  <Modulo><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>101</LINE></Modulo>
+  <loopDivide><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>111</LINE></loopDivide>
+  <PrimeGen><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>124</LINE></PrimeGen>
+  <primeloop><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>129</LINE></primeloop>
+  <primetrue><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>145</LINE></primetrue>
+  <primefalse><FILE>H:\Year 3\microprocessor\RSA\RSA\main.asm</FILE><LINE>151</LINE></primefalse>
+ </LABELS>
+</ASSEMBLER_INFO>
