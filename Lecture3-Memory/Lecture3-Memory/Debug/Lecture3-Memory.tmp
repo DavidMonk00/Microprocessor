@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\Debug\Lecture3-Memory.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lecture3-Memory.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lecture3-Memory.map</FILE>
+  <FILE>Lecture3-Memory.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</FILE><LINE>16</LINE></Init>
+  <Main><FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</FILE><LINE>98</LINE></Main>
+  <Counter><FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</FILE><LINE>69</LINE></Counter>
+  <loop1><FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</FILE><LINE>72</LINE></loop1>
+  <Counter2><FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</FILE><LINE>78</LINE></Counter2>
+  <loop2><FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</FILE><LINE>81</LINE></loop2>
+  <Counter3><FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</FILE><LINE>88</LINE></Counter3>
+  <loop3><FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</FILE><LINE>91</LINE></loop3>
+  <ByteTable><FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</FILE><LINE>118</LINE></ByteTable>
+  <loop><FILE>H:\Year 3\microprocessor\Lecture3-Memory\Lecture3-Memory\main.asm</FILE><LINE>105</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>
