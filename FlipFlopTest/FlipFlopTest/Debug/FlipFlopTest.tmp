@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\Debug\FlipFlopTest.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>FlipFlopTest.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>FlipFlopTest.map</FILE>
+  <FILE>FlipFlopTest.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>16</LINE></Init>
+  <Main><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>106</LINE></Main>
+  <Counter><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>77</LINE></Counter>
+  <loop1><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>80</LINE></loop1>
+  <Counter2><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>86</LINE></Counter2>
+  <loop2><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>89</LINE></loop2>
+  <Counter3><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>96</LINE></Counter3>
+  <loop3><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>99</LINE></loop3>
+  <write><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>133</LINE></write>
+  <loopa><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>108</LINE></loopa>
+  <output><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>124</LINE></output>
+  <clear><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>141</LINE></clear>
+  <loopb><FILE>H:\Year 3\microprocessor\FlipFlopTest\FlipFlopTest\main.asm</FILE><LINE>120</LINE></loopb>
+ </LABELS>
+</ASSEMBLER_INFO>
