@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>H:\Year 3\microprocessor\DAC\DAC\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Year 3\microprocessor\DAC\DAC\Debug\DAC.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DAC.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DAC.map</FILE>
+  <FILE>DAC.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>10</LINE></Init>
+  <data><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>31</LINE></data>
+  <Main><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>17</LINE></Main>
+  <loop><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>20</LINE></loop>
+  <Reset><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>28</LINE></Reset>
+  <BigDEL><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>34</LINE></BigDEL>
+  <Del49ms><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>83</LINE></Del49ms>
+  <DEL15ms><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>42</LINE></DEL15ms>
+  <COUNT><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>54</LINE></COUNT>
+  <DEL4P1ms><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>59</LINE></DEL4P1ms>
+  <COUNT1><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>62</LINE></COUNT1>
+  <DEL100mus><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>67</LINE></DEL100mus>
+  <COUNT2><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>70</LINE></COUNT2>
+  <DEL50mus><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>75</LINE></DEL50mus>
+  <COUNT4><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>78</LINE></COUNT4>
+  <COUNT3><FILE>H:\Year 3\microprocessor\DAC\DAC\main.asm</FILE><LINE>86</LINE></COUNT3>
+ </LABELS>
+</ASSEMBLER_INFO>

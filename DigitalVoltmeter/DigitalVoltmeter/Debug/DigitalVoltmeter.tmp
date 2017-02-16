@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\Debug\DigitalVoltmeter.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DigitalVoltmeter.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DigitalVoltmeter.map</FILE>
+  <FILE>DigitalVoltmeter.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>17</LINE></Init>
+  <Main><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>53</LINE></Main>
+  <initDisp><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>121</LINE></initDisp>
+  <ADCInit><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>70</LINE></ADCInit>
+  <ADCSel><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>76</LINE></ADCSel>
+  <DCATrig><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>82</LINE></DCATrig>
+  <displayDecimal><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>102</LINE></displayDecimal>
+  <bigDel><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>164</LINE></bigDel>
+  <clrDIS><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>151</LINE></clrDIS>
+  <ADCCLR><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>84</LINE></ADCCLR>
+  <dispDec><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>92</LINE></dispDec>
+  <dispChar><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>95</LINE></dispChar>
+  <busyLCD><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>157</LINE></busyLCD>
+  <DEL15ms><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>172</LINE></DEL15ms>
+  <DEL4P1ms><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>189</LINE></DEL4P1ms>
+  <DEL100mus><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>197</LINE></DEL100mus>
+  <Del49ms><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>213</LINE></Del49ms>
+  <COUNT><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>184</LINE></COUNT>
+  <COUNT1><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>192</LINE></COUNT1>
+  <COUNT2><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>200</LINE></COUNT2>
+  <DEL50mus><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>205</LINE></DEL50mus>
+  <COUNT4><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>208</LINE></COUNT4>
+  <COUNT3><FILE>H:\Year 3\microprocessor\DigitalVoltmeter\DigitalVoltmeter\main.asm</FILE><LINE>216</LINE></COUNT3>
+ </LABELS>
+</ASSEMBLER_INFO>

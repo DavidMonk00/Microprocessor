@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>H:\Year 3\microprocessor\3Byte\3Byte\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Year 3\microprocessor\3Byte\3Byte\Debug\3Byte.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>3Byte.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>3Byte.map</FILE>
+  <FILE>3Byte.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>16</LINE></Init>
+  <Main><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>96</LINE></Main>
+  <Counter1><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>67</LINE></Counter1>
+  <loop1><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>70</LINE></loop1>
+  <Counter2><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>76</LINE></Counter2>
+  <loop2><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>79</LINE></loop2>
+  <Counter3><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>86</LINE></Counter3>
+  <loop3><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>89</LINE></loop3>
+  <bit1><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>105</LINE></bit1>
+  <loopd><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>127</LINE></loopd>
+  <OneByte><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>133</LINE></OneByte>
+  <write><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>160</LINE></write>
+  <loopa><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>135</LINE></loopa>
+  <output><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>151</LINE></output>
+  <clear><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>168</LINE></clear>
+  <loopb><FILE>H:\Year 3\microprocessor\3Byte\3Byte\main.asm</FILE><LINE>147</LINE></loopb>
+ </LABELS>
+</ASSEMBLER_INFO>

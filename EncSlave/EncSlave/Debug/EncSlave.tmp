@@ -1,0 +1,57 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>H:\Year 3\microprocessor\EncSlave\EncSlave\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\Debug\EncSlave.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>EncSlave.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>EncSlave.map</FILE>
+  <FILE>EncSlave.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>11</LINE></Init>
+  <USARTInit><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>111</LINE></USARTInit>
+  <initDisp><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>159</LINE></initDisp>
+  <clrDIS><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>189</LINE></clrDIS>
+  <main><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>49</LINE></main>
+  <USARTReceive><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>118</LINE></USARTReceive>
+  <main_end><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>56</LINE></main_end>
+  <storemessage><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>76</LINE></storemessage>
+  <generateCypher><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>59</LINE></generateCypher>
+  <displayMessage><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>94</LINE></displayMessage>
+  <generateCypher_loop><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>65</LINE></generateCypher_loop>
+  <lfsr><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>133</LINE></lfsr>
+  <storemessage_end><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>90</LINE></storemessage_end>
+  <storemessage_store><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>83</LINE></storemessage_store>
+  <displayMessage_load><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>99</LINE></displayMessage_load>
+  <displayMessage_end><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>106</LINE></displayMessage_end>
+  <busyLCD><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>197</LINE></busyLCD>
+  <USARTReceive_start><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>121</LINE></USARTReceive_start>
+  <lfsr_loop4><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>149</LINE></lfsr_loop4>
+  <DEL15ms><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>216</LINE></DEL15ms>
+  <DEL4P1ms><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>233</LINE></DEL4P1ms>
+  <DEL100mus><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>241</LINE></DEL100mus>
+  <busyLCDstart><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>199</LINE></busyLCDstart>
+  <BigDEL><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>208</LINE></BigDEL>
+  <Del49ms><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>257</LINE></Del49ms>
+  <COUNT><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>228</LINE></COUNT>
+  <COUNT1><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>236</LINE></COUNT1>
+  <COUNT2><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>244</LINE></COUNT2>
+  <DEL50mus><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>249</LINE></DEL50mus>
+  <COUNT4><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>252</LINE></COUNT4>
+  <COUNT3><FILE>H:\Year 3\microprocessor\EncSlave\EncSlave\main.asm</FILE><LINE>260</LINE></COUNT3>
+ </LABELS>
+</ASSEMBLER_INFO>

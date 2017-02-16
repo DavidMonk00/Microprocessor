@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>H:\Year 3\microprocessor\LCD\LCD\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Year 3\microprocessor\LCD\LCD\Debug\LCD.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LCD.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LCD.map</FILE>
+  <FILE>LCD.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>16</LINE></Init>
+  <Main><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>52</LINE></Main>
+  <initDisp><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>109</LINE></initDisp>
+  <mess1Out><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>77</LINE></mess1Out>
+  <bigDel><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>152</LINE></bigDel>
+  <clrDIS><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>139</LINE></clrDIS>
+  <Mess1><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>72</LINE></Mess1>
+  <Mess2><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>74</LINE></Mess2>
+  <mess1More><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>81</LINE></mess1More>
+  <busyLCD><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>145</LINE></busyLCD>
+  <mess1End><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>90</LINE></mess1End>
+  <Mess2Out><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>93</LINE></Mess2Out>
+  <mess2More><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>97</LINE></mess2More>
+  <mess2End><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>105</LINE></mess2End>
+  <DEL15ms><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>160</LINE></DEL15ms>
+  <DEL4P1ms><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>177</LINE></DEL4P1ms>
+  <DEL100mus><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>185</LINE></DEL100mus>
+  <Del49ms><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>193</LINE></Del49ms>
+  <COUNT><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>172</LINE></COUNT>
+  <COUNT1><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>180</LINE></COUNT1>
+  <COUNT2><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>188</LINE></COUNT2>
+  <COUNT3><FILE>H:\Year 3\microprocessor\LCD\LCD\main.asm</FILE><LINE>196</LINE></COUNT3>
+ </LABELS>
+</ASSEMBLER_INFO>
